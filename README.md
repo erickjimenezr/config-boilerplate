@@ -1,0 +1,2 @@
+# config-boilerplate
+Config server
